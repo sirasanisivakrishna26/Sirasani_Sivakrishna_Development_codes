@@ -1,0 +1,255 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.my-products .navbar{
+  background-image: linear-gradient(to right top, #f36edb, #ff52af, #ff3e7e, #ff3b4c, #eb4912);
+}
+
+/* .my-products .card{
+  background-image: linear-gradient(to right top, #aaf36e, #f0be06, #ff7136, #ff0089, #cb12eb);
+  /* margin-left: 35%;
+  margin-top: 15px; */
+
+
+/* .my-products{
+  background-image: url("C:\Users\siras\OneDrive\Documents\MyProjects\Capstone_Batch_6(ShopforHome)\Capstone_Batch_6(ShopforHome)\Capstone_Frentend_batch_6\src\Images\product.jpg");
+  background-size: 1000px;
+  height: 700px;
+
+} */
+
+.my-getall{
+  text-align: center;
+}
+
+.my-getall .card .card-body.details{
+  border: mediumorchid 2px solod;
+}
+
+.my-crudonuser .navbar{
+  background-image: linear-gradient(to bottom, #af2249, #c32e40, #d33e34, #df5123, #e76700);
+}
+.my-crudonuser {
+    background-image: url("C:\Users\siras\OneDrive\Documents\MyProjects\Capstone_Batch_6(ShopforHome)\Capstone_Batch_6(ShopforHome)\Capstone_Frentend_batch_6\src\Images\update.jpg");
+    background-size: 1000px;
+    height: 700px;
+}
+
+.user{
+  text-align: center;
+
+}
+.user h5{
+  color: rgb(247, 14, 103);
+}
+
+.my-crudonuser .cards{
+  margin-left: 35%;
+}
+
+.my-crudonproducts .navbar{ 
+   background-image: linear-gradient(to bottom, #9e22af, #745cd5, #387fe9, #009bed, #00b2e7);
+}
+
+.card-table {
+  margin-left: 35%;
+  margin-top: 20px;
+}
+
+.card-table h5{
+ 
+  color: #cb380f;
+  text-align:center;
+}
+.details2{
+  text-align: center;
+}
+
+.details3{
+  text-align: center;
+}
+
+.my-sortbyprice .navbar{
+  background-image: linear-gradient(to bottom, #9e22af, #745cd5, #387fe9, #009bed, #00b2e7);
+}
+
+.details4{
+  text-align: center;
+}
+.details6{
+  text-align: center;
+}
+.adminhomepage .navbar{
+ 
+  background-image: linear-gradient(to top, #e7cd0a, #e3b902, #dea503, #d69208, #cd800f);
+}
+.adminhomepage1 .nav{
+  background-image: linear-gradient(to bottom, #e7cd0a, #e3b902, #dea503, #d69208, #cd800f);
+}
+.adminhomebody{
+  background:url("./Images/bngimg.jpg" )center no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height:500px;
+    overflow: hidden;
+}
+
+ .userhomepage .navbar{
+  background-image: linear-gradient(to bottom, #171818, #272929, #383b3b, #4a4d4e, #5d6162);
+
+}
+.userhomepage .nav{
+  background-image: linear-gradient(to bottom, #171818, #272929, #383b3b, #4a4d4e, #5d6162);
+
+}
+
+.userhomebody{
+  background:url("./Images/uss.jpg" )center no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height:500px;
+    overflow: hidden;
+   
+
+}
+
+/*.userhomepage{
+  background:url("./Images/userhome.jpg" )center no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height:500px;
+    overflow: hidden;
+} 
+
+/* .container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 40.33%;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+.card {
+  background-color: #f1f1f1;
+  padding: 40px;
+  margin-bottom: 40px;
+} */
+
+.my-productsss{
+  text-align: center;
+}
+
+
+.producttable{
+  text-align:center;
+  margin-left: 26%;
+}
+
+.my-productsss .card .card-body{
+  background-color: azure;
+}
+
+.my-productsss .card  .card-body img {
+  border: solid mediumvioletred 2px;
+  border-radius: 5px;
+}
+
+.my-productsss .navbar{
+  background-image: linear-gradient(to bottom, #d90ad9, #f300a7, #f90077, #f2004c, #e02626);
+}
+
+ .my-products .addproduct{
+  margin-left: 25%; 
+  margin-top: 10px;
+ }
+
+
+.my-getall .card .card-body .my-table .details{
+  background-color: azure;
+
+}
+
+.my-getall .card  .card-body .my-table .details img{
+  border: solid rgb(188, 10, 179) 2px;
+  border-radius: 5px;
+}
+
+.my-getall .card  .card-body .my-table .details{
+  background-color: linen;
+
+}
+
+.my-getall .navbar{
+  background-image: linear-gradient(to bottom, #0a79d9, #0092e4, #00a8e7, #00bde5, #26d0e0);
+
+}
+/* 
+.my-getall .card  .card-body .my-table{
+ background-color: rgb(220, 148, 172);
+} */
+.users{
+  background-color:lightblue;
+}
+.user{
+  margin-left: 35px;
+}
+.crudonusers .cards{
+  margin-left: 35%;
+}
+
+.my-crudonproducts .card .card-table .pp{
+  border: 3px solid mediumorchid;
+}
+
+.discount .navbar{
+  background-image: linear-gradient(to bottom, #6b78e9, #0099fd, #00b4ff, #00ccfa, #0ee0ed);}
+
+.discount{
+  background-image: linear-gradient(to bottom, #9fa291, #91998a, #858f84, #79867e, #6f7c77);
+  height: 650px;
+
+}
+
+.bulkupload .navbar{
+  background-image: linear-gradient(to bottom, #6b78e9, #0099fd, #00b4ff, #00ccfa, #0ee0ed);
+}
+
+.bulkupload{
+  background-image: linear-gradient(to bottom, #bfb0c5, #b29cc6, #a089c9, #8778cd, #626ad2);  height:650px;
+}
+
+.bills .navbar{
+  background-image: linear-gradient(to bottom, #133e15, #1d6127, #24863d, #24ae54, #17d76f);
+}
+
+.image {
+    background-image: url("C:\Users\siras\OneDrive\Documents\MyProjects\Capstone_Batch_6(ShopforHome)\Capstone_Batch_6(ShopforHome)\Capstone_Frentend_batch_6\src\Images\product.jpg");
+    height: 600px;
+    background-size: 1300px;
+}
+
+.abcd {
+    background-image: url("C:\Users\siras\OneDrive\Documents\MyProjects\Capstone_Batch_6(ShopforHome)\Capstone_Batch_6(ShopforHome)\Capstone_Frentend_batch_6\src\Images\xyz.jpg");
+    height: 600px;
+    background-size: 1300px;
+}
